@@ -100,7 +100,4 @@ Everything lives in a single file, `p2p_secure_chat_v1.py`:
 - **One connection per host session** — the listening socket accepts a single incoming connection, matching the 1-to-1 chat model of this app.
 - **Requires `pyngrok`** — if it isn't installed, the app shows a clear error dialog on startup pointing to `pip install pyngrok` rather than crashing.
 
-## License / Author
 
-Dev: **Danx Exodus — Macan Angkasa**
-https://github.com/danx123
